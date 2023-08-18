@@ -1,5 +1,6 @@
 {
   "name": "recipeapp",
+  "homepage": "https://ahmed733.github.io/recipeapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
